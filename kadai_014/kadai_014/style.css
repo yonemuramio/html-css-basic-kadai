@@ -4,13 +4,12 @@ body {
 }
 .google-fonts {
     font-family: 'Josefin Sans', sans-serif;
-    font-family: 'Noto Sans JP', sans-serif;
 }
 html {
     font-size: 20px;
 }
 h1 {
-    font-size: 2em;
+    font-size: 2rem;
     border-bottom: solid 3px rgb(115, 115, 114);
     text-shadow: 1px 1px 2px rgb(115, 115, 114);
     letter-spacing: 1.2em;
@@ -22,6 +21,6 @@ h1 {
 .blue {
     color: skyblue;
 }
-div {
+#basic .bold {
     font-weight: bold;
 }
